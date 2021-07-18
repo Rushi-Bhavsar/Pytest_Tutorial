@@ -1,0 +1,10 @@
+{
+    "get_url":[
+      "https://reqres.in/api/users?page=2", "https://reqres.in/api/users/2",
+      "https://reqres.in/api/users/23", "https://reqres.in/api/unknown",
+      "https://reqres.in/api/unknown/2"],
+    "post_url": ["https://reqres.in/api/users"],
+    "put_url": ["https://reqres.in/api/users/2"],
+    "patch_url": ["https://reqres.in/api/users/2"],
+    "delete_url": ["https://reqres.in/api/users/2"]
+}

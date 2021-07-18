@@ -1,0 +1,81 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="49" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="ul" />
+            <item index="7" class="java.lang.String" itemvalue="th" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="E731" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Django.first_project.first_app.urls.first_app" />
+          <option value="first_app" />
+          <option value="Django.first_project.first_app.models.Webpage.*" />
+          <option value="Django.first_project.first_app.models.AccessRecord.objects" />
+          <option value="Django.first_project.first_app.models.Topic.*" />
+          <option value="Django.second_project.second_app.models.Users.*" />
+          <option value="Django.fourth_project.fourth_project.urls.*" />
+          <option value="Django.CBV_Project.CBV_Project.urls.*" />
+          <option value="first_drf_project.first_drf_get_api.models.StudentModel.*" />
+          <option value="first_drf_project.first_drf_project.urls.*" />
+          <option value="first_drf_project.drf_create_api.models.StudentModel.*" />
+          <option value="drf_basic_crud_project.basic_api.models.StudentModel.*" />
+          <option value="drf_basic_crud_project.drf_basic_crud_project.urls.*" />
+          <option value="model_serializer.api.models.EmployeeModel.*" />
+          <option value="model_serializer.model_serializer.urls.*" />
+          <option value="api_view.api.models.EmployeeModel.*" />
+          <option value="api_view.api_view.urls.*" />
+          <option value="generic_api_view.generic_api_view.urls.*" />
+          <option value="generic_api_view.api.models.EmployeeModel.*" />
+          <option value="concrete_api_view.concrete_api_view.urls.*" />
+          <option value="concrete_api_view.api.models.EmployeeModel.*" />
+          <option value="model_view_set.api.models.EmployeeModel.*" />
+          <option value="model_view_set.model_view_set.urls.*" />
+          <option value="bajaj_employee.bajaj_employee.urls.*" />
+          <option value="bajaj_employee.api.models.EmployeeModel.*" />
+          <option value="bajaj_employee.api.models.EmployeeDetailsModel.*" />
+          <option value="bajaj_employee.api.models.EmployeePunchInModel.*" />
+          <option value="bajaj_employee.api.models.EmployeePunchOutModel.*" />
+          <option value="bajaj_employee.api.models.EmployeeLoginModel.*" />
+          <option value="api_testing.api_testing.urls.*" />
+          <option value="api_testing.api.models.EmployeeModel.*" />
+          <option value="first_project.first_project.urls.*" />
+          <option value="first_project.api.models.EmployeeModel.*" />
+          <option value="first_project.api.models.EmployeeLoginModel.*" />
+          <option value="first_project.api.test.tests.*" />
+          <option value="first_project.api.tests.*" />
+          <option value="second_project.second_project.urls.*" />
+          <option value="second_project.api.tests.*" />
+          <option value="second_project.api.models.EmployeeModel.*" />
+          <option value="second_project.api.models.EmployeeLoginModel.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
